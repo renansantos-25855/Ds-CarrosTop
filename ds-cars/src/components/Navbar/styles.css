@@ -1,0 +1,30 @@
+.main-nav{
+    background-color: #F78B00;
+    font-size: 24px;
+    color: #00285F;
+}
+
+.main-menu{
+    display:flex;
+    width: 95%;
+    justify-content: flex-end;
+}
+
+.navbar-title{
+    padding: 21px 0 21px 20px;
+}
+
+.main-menu li{
+    list-style: none;
+    font-size: 0.7em;
+    padding-left: 25px;
+}
+
+.main-menu a{
+    font-weight: 400;
+}
+
+.main-menu a:hover{
+    font-weight: 700;
+    color:#00132c;
+}
